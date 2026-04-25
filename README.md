@@ -1,4 +1,4 @@
-Diseño de Software - Laboratorios
+# Diseño de Software
 
 Estudiante: Michael Joseph Oviedo Meza
 
