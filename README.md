@@ -1,1 +1,8 @@
-# Diseno de Software
+Diseño de Software - Laboratorios
+
+Estudiante: Michael Joseph Oviedo Meza
+
+Carnet: 2021022451
+
+Descripción:
+Repositorio del curso de Diseño de Software
